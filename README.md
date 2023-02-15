@@ -22,6 +22,8 @@ python -m venv --system-site-packages venv
 
 ## Hardware
 
+Models designed with Solidworks 2022 Education Edition
+
 ### Bill of Materials
 
 Wearable configuration for Quest 2
