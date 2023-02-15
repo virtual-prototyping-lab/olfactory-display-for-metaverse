@@ -1,0 +1,13 @@
+locale = "it_IT"
+
+scents = [
+  "Mint",
+  "Lemon",
+  "Lavender",
+]
+
+balanced_count = 5
+
+[delay]
+min = 5.0
+max = 10.0
