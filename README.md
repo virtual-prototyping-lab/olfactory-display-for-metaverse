@@ -1,6 +1,8 @@
 # olfactory-display-for-metaverse
 
-For paper "An open-source Olfactory Display to add the sense of smell to the Metaverse"
+For paper ["An open-source Olfactory Display to add the sense of smell to the Metaverse"](https://asmedigitalcollection.asme.org/computingengineering/article/doi/10.1115/1.4062889/1164268/An-open-source-Olfactory-Display-to-add-the-sense) in Journal of Computing and Information Science in Engineering.
+
+DOI: [10.1115/1.4062889](https://doi.org/10.1115/1.4062889)
 
 ## Experiment setup
 
