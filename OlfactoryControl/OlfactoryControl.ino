@@ -45,8 +45,8 @@ void setup() {
 
 void loop() {
   if (Serial.available()) {
-    char command == Serial.read();
-    if (command = '0') {
+    char command = Serial.read();
+    if (command == '0') {
       for (int i = 0; i < CHANNEL_COUNT; i++) {
         channelIntensity[i] = 0;
       }
